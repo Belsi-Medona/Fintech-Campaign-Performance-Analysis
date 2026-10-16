@@ -163,6 +163,12 @@ Monthly yield varied between **5.73% and 6.19%**. Campaign mix, customer type, a
 | Overall ROI | 1,160.78% |
 
 ---
+## 📊 Dashboard Preview
+
+![Campaign Performance Dashboard](Campaign_Performance_Dashboard.png)
+
+---
+
 
 ## 📁 Project Files
 
